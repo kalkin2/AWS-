@@ -1,0 +1,5 @@
+가입 
+ 1.https://aws.amazon.com접속 
+ 2.상단메뉴 > 언어 english선택 
+ 3.상단메뉴 > sign in to the console > aws 계정 새로만들기 > 기본정보 > 결제 정보 > sms인증 > 로그인
+ 4.ec2> key pairs 선택
